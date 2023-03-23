@@ -44,43 +44,43 @@ const readMore = more.repeat(4001)
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sgh = 'https://github.com/ZykoBotz-MD'
-global.sgc = 'https://chat.whatsapp.com/CrVpOBoWyi5Aj1l1LqPlMW'
-global.sdc = 'https://www.discord.com'
-global.snh = 'https://youtube.com/@Ziro-MD_Official'
+global.sgh = 'https://github.com/Raya2399'
+global.sgc = 'https://chat.whatsapp.com/JaDhlN6irs0AbP2LuIDmlH'
+global.sdc = 'https://www.discord.com/e94psQ8y'
+global.snh = 'https://youtube.com/@alwanganzofficial7125'
 global.sfb = 'https://www.facebook.com/' 
-global.syt = 'https://youtube.com/@Ziro-MD_Official'
-global.tik = 'https://www.tiktok.com/@lisaamelia09_' 
-global.tautanwa = 'https://wa.me/6281228070013'
-global.wame = 'https://wa.me/6281228070013' // kalau gk punya bisa ganti pake gini wa.me/6283133329293
+global.syt = 'https://youtube.com/@alwanganzofficial7125'
+global.tik = 'https://www.tiktok.com/@alvin_ch1' 
+global.tautanwa = 'https://wa.me/622261065144'
+global.wame = 'https://wa.me/622261065144' // kalau gk punya bisa ganti pake gini wa.me/6283133329293
 
 /*============== PAYMENT ==============*/
-global.pdana = '0852 1264 9276'
-global.povo = '0852 1264 9276'
-global.pgopay = '0852 1264 9276'
-global.plinkaja = '0852 1264 9276' 
-global.ppulsa = '0852 1264 9276'
-global.ppulsa2 = '0831 3332 9293'
+global.pdana = '0813 3299 5497'
+global.povo = '-'
+global.pgopay = '0813 3299 5497'
+global.plinkaja = '-' 
+global.ppulsa = '0813 3299 5497'
+global.ppulsa2 = '0812 5186 8708'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282124690625'
-global.nomorown = '6281228070013'
-global.nomorown1 = '6281228070013' //pake No Pacar lo Juga Boleh
-global.namebot = '𝑍𝐼𝑅𝑂-𝑀𝐷⚡'
-global.nameown = '𝑍𝐼𝑅𝑂-𝑀𝐷⚡'
-global.nameown1 = '𝑍𝐼𝑅𝑂-𝑀𝐷⚡' //Pake Nama Pacar Lo Juga Boleh
+global.nomorbot = '14843696993'
+global.nomorown = '6282261065144'
+global.nomorown1 = '6282261065144' //pake No Pacar lo Juga Boleh
+global.namebot = 'FIN MD'
+global.nameown = 'Fin Ofc'
+global.nameown1 = 'Fin Ofc' //Pake Nama Pacar Lo Juga Boleh
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INFO BIO DATA OWN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/kabulsaputra21' // ig lo
-global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/lisaamelia8680' // ig cewek lo
+global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/al_vin.233' // ig lo
+global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/al_vin.233' // ig cewek lo
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281228070013', '𝑍𝐼𝑅𝑂-𝑀𝐷⚡', true],
+  ['6282261065144', 'Fin Ofc', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true],
@@ -91,16 +91,16 @@ global.mods = []
 global.prems = [] 
 
 /*============== WATERMARK ==============*/
-global.gcname = '𝑍𝐼𝑅𝑂-𝑀𝐷⚡' //nama group kalian
+global.gcname = 'Fin Anime' //nama group kalian
 global.readMore = readMore
-global.wm = '                「 𝑍𝐼𝑅𝑂-𝑀𝐷⚡ 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝑍𝐼𝑅𝑂-𝑀𝐷⚡ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ 𝑍𝐼𝑅𝑂-𝑀𝐷⚡ '
+global.wm = '                「 FIN MD 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘FIN MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ FIN MD '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝑍𝐼𝑅𝑂-𝑀𝐷⚡`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Fin Ofc`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '              「 𝑍𝐼𝑅𝑂-𝑀𝐷⚡  あ」'
+global.author = '              「 Fin Ofc  あ」'
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 global.danied = pickRandom(["✘ 𝗘𝗿𝗼𝗿 𝟰𝟬𝟰",
@@ -109,13 +109,13 @@ global.danied = pickRandom(["✘ 𝗘𝗿𝗼𝗿 𝟰𝟬𝟰",
 ])
 
 /*============== STICKER WM ==============*/
-global.stickpack = '𝑍𝐼𝑅𝑂-𝑀𝐷⚡'
-global.stickauth = `By ©𝑍𝐼𝑅𝑂-𝑀𝐷⚡`
+global.stickpack = 'FIN MD'
+global.stickauth = `By ©Fin Ofc`
  
 /*============== LOGO ==============*/
 global.fotonya1 = 'https://telegra.ph/file/9a55cfb917dc82cff0556.jpg' 
 global.fotonya2 = 'https://telegra.ph/file/9a55cfb917dc82cff0556.jpg'
-global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
+global.logo = 'https://telegra.ph/file/357fcef6b4cd35df96569.jpg'
 global.thumb = ImgEstetik() //Main Thumbnail
 global.imagebot = ImgMountain()
 global.giflogo = VideoGalau()
@@ -4217,9 +4217,9 @@ global.mdbot = [
 
 global.flaaa = fla
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "https://www.instagram.com/al_vin.233"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '62812-2807-0013'
+global.phn = '0822-6106-5144'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.fsizedoc = '99999999999999'
